@@ -1,0 +1,1787 @@
+[
+    {
+        "profile_id": 10000,
+        "category_name": "Aerial",
+        "dino_diet": "Carnivore",
+        "dino_name": "Achillobator",
+        "dino_nickname": "Achillobator",
+        "dino_clutch": "5",
+        "dino_image": "https://path-of-titans.fandom.com/wiki/Achillobator",
+        "dino_emoji": "",
+        "dino_color": "#ffffff",
+        "summary": "Achillobator is a dinosaur found in the Path of Titans universe. More detailed information can be obtained from the Path of Titans wiki.",
+        "dino_profile": {
+            "fields": []
+        }
+    },
+    {
+        "profile_id": 10001,
+        "category_name": "Terrestrial",
+        "dino_diet": "Carnivore",
+        "dino_name": "Acrocanthosaurus",
+        "dino_nickname": "Acrocanthosaurus",
+        "dino_clutch": "5",
+        "dino_image": "https://path-of-titans.fandom.com/wiki/Acrocanthosaurus",
+        "dino_emoji": "",
+        "dino_color": "#ffffff",
+        "summary": "Acrocanthosaurus is a dinosaur found in the Path of Titans universe. More detailed information can be obtained from the Path of Titans wiki.",
+        "dino_profile": {
+            "fields": []
+        }
+    },
+    {
+        "profile_id": 10002,
+        "category_name": "Aerial",
+        "dino_diet": "Carnivore",
+        "dino_name": "Albertaceratops",
+        "dino_nickname": "Albertaceratops",
+        "dino_clutch": "5",
+        "dino_image": "https://path-of-titans.fandom.com/wiki/Albertaceratops",
+        "dino_emoji": "",
+        "dino_color": "#ffffff",
+        "summary": "Albertaceratops is a dinosaur found in the Path of Titans universe. More detailed information can be obtained from the Path of Titans wiki.",
+        "dino_profile": {
+            "fields": []
+        }
+    },
+    {
+        "profile_id": 10003,
+        "category_name": "Aerial",
+        "dino_diet": "Carnivore",
+        "dino_name": "Alioramus",
+        "dino_nickname": "Alioramus",
+        "dino_clutch": "5",
+        "dino_image": "https://path-of-titans.fandom.com/wiki/Alioramus",
+        "dino_emoji": "",
+        "dino_color": "#ffffff",
+        "summary": "Alioramus is a dinosaur found in the Path of Titans universe. More detailed information can be obtained from the Path of Titans wiki.",
+        "dino_profile": {
+            "fields": []
+        }
+    },
+    {
+        "profile_id": 10004,
+        "category_name": "Terrestrial",
+        "dino_diet": "Carnivore",
+        "dino_name": "Allosaurus",
+        "dino_nickname": "Allosaurus",
+        "dino_clutch": "5",
+        "dino_image": "https://path-of-titans.fandom.com/wiki/Allosaurus",
+        "dino_emoji": "",
+        "dino_color": "#ffffff",
+        "summary": "Allosaurus is a dinosaur found in the Path of Titans universe. More detailed information can be obtained from the Path of Titans wiki.",
+        "dino_profile": {
+            "fields": []
+        }
+    },
+    {
+        "profile_id": 10005,
+        "category_name": "Terrestrial",
+        "dino_diet": "Carnivore",
+        "dino_name": "Amargasaurus",
+        "dino_nickname": "Amargasaurus",
+        "dino_clutch": "5",
+        "dino_image": "https://path-of-titans.fandom.com/wiki/Amargasaurus",
+        "dino_emoji": "",
+        "dino_color": "#ffffff",
+        "summary": "Amargasaurus is a dinosaur found in the Path of Titans universe. More detailed information can be obtained from the Path of Titans wiki.",
+        "dino_profile": {
+            "fields": []
+        }
+    },
+    {
+        "profile_id": 10006,
+        "category_name": "Terrestrial",
+        "dino_diet": "Carnivore",
+        "dino_name": "Ampelosaurus",
+        "dino_nickname": "Ampelosaurus",
+        "dino_clutch": "5",
+        "dino_image": "https://path-of-titans.fandom.com/wiki/Ampelosaurus",
+        "dino_emoji": "",
+        "dino_color": "#ffffff",
+        "summary": "Ampelosaurus is a dinosaur found in the Path of Titans universe. More detailed information can be obtained from the Path of Titans wiki.",
+        "dino_profile": {
+            "fields": []
+        }
+    },
+    {
+        "profile_id": 10007,
+        "category_name": "Aerial",
+        "dino_diet": "Carnivore",
+        "dino_name": "Andrewsarchus",
+        "dino_nickname": "Andrewsarchus",
+        "dino_clutch": "5",
+        "dino_image": "https://path-of-titans.fandom.com/wiki/Andrewsarchus",
+        "dino_emoji": "",
+        "dino_color": "#ffffff",
+        "summary": "Andrewsarchus is a dinosaur found in the Path of Titans universe. More detailed information can be obtained from the Path of Titans wiki.",
+        "dino_profile": {
+            "fields": []
+        }
+    },
+    {
+        "profile_id": 10008,
+        "category_name": "Aerial",
+        "dino_diet": "Carnivore",
+        "dino_name": "Ankylorhiza",
+        "dino_nickname": "Ankylorhiza",
+        "dino_clutch": "5",
+        "dino_image": "https://path-of-titans.fandom.com/wiki/Ankylorhiza",
+        "dino_emoji": "",
+        "dino_color": "#ffffff",
+        "summary": "Ankylorhiza is a dinosaur found in the Path of Titans universe. More detailed information can be obtained from the Path of Titans wiki.",
+        "dino_profile": {
+            "fields": []
+        }
+    },
+    {
+        "profile_id": 10009,
+        "category_name": "Terrestrial",
+        "dino_diet": "Carnivore",
+        "dino_name": "Anodontosaurus",
+        "dino_nickname": "Anodontosaurus",
+        "dino_clutch": "5",
+        "dino_image": "https://path-of-titans.fandom.com/wiki/Anodontosaurus",
+        "dino_emoji": "",
+        "dino_color": "#ffffff",
+        "summary": "Anodontosaurus is a dinosaur found in the Path of Titans universe. More detailed information can be obtained from the Path of Titans wiki.",
+        "dino_profile": {
+            "fields": []
+        }
+    },
+    {
+        "profile_id": 10010,
+        "category_name": "Terrestrial",
+        "dino_diet": "Carnivore",
+        "dino_name": "Apatosaurus",
+        "dino_nickname": "Apatosaurus",
+        "dino_clutch": "5",
+        "dino_image": "https://path-of-titans.fandom.com/wiki/Apatosaurus",
+        "dino_emoji": "",
+        "dino_color": "#ffffff",
+        "summary": "Apatosaurus is a dinosaur found in the Path of Titans universe. More detailed information can be obtained from the Path of Titans wiki.",
+        "dino_profile": {
+            "fields": []
+        }
+    },
+    {
+        "profile_id": 10011,
+        "category_name": "Terrestrial",
+        "dino_diet": "Carnivore",
+        "dino_name": "Argentinosaurus",
+        "dino_nickname": "Argentinosaurus",
+        "dino_clutch": "5",
+        "dino_image": "https://path-of-titans.fandom.com/wiki/Argentinosaurus",
+        "dino_emoji": "",
+        "dino_color": "#ffffff",
+        "summary": "Argentinosaurus is a dinosaur found in the Path of Titans universe. More detailed information can be obtained from the Path of Titans wiki.",
+        "dino_profile": {
+            "fields": []
+        }
+    },
+    {
+        "profile_id": 10012,
+        "category_name": "Aerial",
+        "dino_diet": "Carnivore",
+        "dino_name": "Australovenator",
+        "dino_nickname": "Australovenator",
+        "dino_clutch": "5",
+        "dino_image": "https://path-of-titans.fandom.com/wiki/Australovenator",
+        "dino_emoji": "",
+        "dino_color": "#ffffff",
+        "summary": "Australovenator is a dinosaur found in the Path of Titans universe. More detailed information can be obtained from the Path of Titans wiki.",
+        "dino_profile": {
+            "fields": []
+        }
+    },
+    {
+        "profile_id": 10013,
+        "category_name": "Aerial",
+        "dino_diet": "Carnivore",
+        "dino_name": "Azhdarchids",
+        "dino_nickname": "Azhdarchids",
+        "dino_clutch": "5",
+        "dino_image": "https://path-of-titans.fandom.com/wiki/Azhdarchids",
+        "dino_emoji": "",
+        "dino_color": "#ffffff",
+        "summary": "Azhdarchids is a dinosaur found in the Path of Titans universe. More detailed information can be obtained from the Path of Titans wiki.",
+        "dino_profile": {
+            "fields": []
+        }
+    },
+    {
+        "profile_id": 10014,
+        "category_name": "Aerial",
+        "dino_diet": "Carnivore",
+        "dino_name": "Barsboldia",
+        "dino_nickname": "Barsboldia",
+        "dino_clutch": "5",
+        "dino_image": "https://path-of-titans.fandom.com/wiki/Barsboldia",
+        "dino_emoji": "",
+        "dino_color": "#ffffff",
+        "summary": "Barsboldia is a dinosaur found in the Path of Titans universe. More detailed information can be obtained from the Path of Titans wiki.",
+        "dino_profile": {
+            "fields": []
+        }
+    },
+    {
+        "profile_id": 10015,
+        "category_name": "Aerial",
+        "dino_diet": "Carnivore",
+        "dino_name": "Bistahieversor",
+        "dino_nickname": "Bistahieversor",
+        "dino_clutch": "5",
+        "dino_image": "https://path-of-titans.fandom.com/wiki/Bistahieversor",
+        "dino_emoji": "",
+        "dino_color": "#ffffff",
+        "summary": "Bistahieversor is a dinosaur found in the Path of Titans universe. More detailed information can be obtained from the Path of Titans wiki.",
+        "dino_profile": {
+            "fields": []
+        }
+    },
+    {
+        "profile_id": 10016,
+        "category_name": "Aerial",
+        "dino_diet": "Carnivore",
+        "dino_name": "Bristlewing",
+        "dino_nickname": "Bristlewing",
+        "dino_clutch": "5",
+        "dino_image": "https://path-of-titans.fandom.com/wiki/Bristlewing",
+        "dino_emoji": "",
+        "dino_color": "#ffffff",
+        "summary": "Bristlewing is a dinosaur found in the Path of Titans universe. More detailed information can be obtained from the Path of Titans wiki.",
+        "dino_profile": {
+            "fields": []
+        }
+    },
+    {
+        "profile_id": 10017,
+        "category_name": "Aerial",
+        "dino_diet": "Carnivore",
+        "dino_name": "Bwi",
+        "dino_nickname": "Bwi",
+        "dino_clutch": "5",
+        "dino_image": "https://path-of-titans.fandom.com/wiki/Bwi",
+        "dino_emoji": "",
+        "dino_color": "#ffffff",
+        "summary": "Bwi is a dinosaur found in the Path of Titans universe. More detailed information can be obtained from the Path of Titans wiki.",
+        "dino_profile": {
+            "fields": []
+        }
+    },
+    {
+        "profile_id": 10018,
+        "category_name": "Terrestrial",
+        "dino_diet": "Carnivore",
+        "dino_name": "Camarasaurus (Agc)",
+        "dino_nickname": "Camarasaurus (Agc)",
+        "dino_clutch": "5",
+        "dino_image": "https://path-of-titans.fandom.com/wiki/Camarasaurus_(Agc)",
+        "dino_emoji": "",
+        "dino_color": "#ffffff",
+        "summary": "Camarasaurus (Agc) is a dinosaur found in the Path of Titans universe. More detailed information can be obtained from the Path of Titans wiki.",
+        "dino_profile": {
+            "fields": []
+        }
+    },
+    {
+        "profile_id": 10019,
+        "category_name": "Terrestrial",
+        "dino_diet": "Carnivore",
+        "dino_name": "Camptosaurus",
+        "dino_nickname": "Camptosaurus",
+        "dino_clutch": "5",
+        "dino_image": "https://path-of-titans.fandom.com/wiki/Camptosaurus",
+        "dino_emoji": "",
+        "dino_color": "#ffffff",
+        "summary": "Camptosaurus is a dinosaur found in the Path of Titans universe. More detailed information can be obtained from the Path of Titans wiki.",
+        "dino_profile": {
+            "fields": []
+        }
+    },
+    {
+        "profile_id": 10020,
+        "category_name": "Terrestrial",
+        "dino_diet": "Carnivore",
+        "dino_name": "Carcharodontosaurus",
+        "dino_nickname": "Carcharodontosaurus",
+        "dino_clutch": "5",
+        "dino_image": "https://path-of-titans.fandom.com/wiki/Carcharodontosaurus",
+        "dino_emoji": "",
+        "dino_color": "#ffffff",
+        "summary": "Carcharodontosaurus is a dinosaur found in the Path of Titans universe. More detailed information can be obtained from the Path of Titans wiki.",
+        "dino_profile": {
+            "fields": []
+        }
+    },
+    {
+        "profile_id": 10021,
+        "category_name": "Aerial",
+        "dino_diet": "Carnivore",
+        "dino_name": "Carnotaurus",
+        "dino_nickname": "Carnotaurus",
+        "dino_clutch": "5",
+        "dino_image": "https://path-of-titans.fandom.com/wiki/Carnotaurus",
+        "dino_emoji": "",
+        "dino_color": "#ffffff",
+        "summary": "Carnotaurus is a dinosaur found in the Path of Titans universe. More detailed information can be obtained from the Path of Titans wiki.",
+        "dino_profile": {
+            "fields": []
+        }
+    },
+    {
+        "profile_id": 10022,
+        "category_name": "Aerial",
+        "dino_diet": "Carnivore",
+        "dino_name": "Cerataspida",
+        "dino_nickname": "Cerataspida",
+        "dino_clutch": "5",
+        "dino_image": "https://path-of-titans.fandom.com/wiki/Cerataspida",
+        "dino_emoji": "",
+        "dino_color": "#ffffff",
+        "summary": "Cerataspida is a dinosaur found in the Path of Titans universe. More detailed information can be obtained from the Path of Titans wiki.",
+        "dino_profile": {
+            "fields": []
+        }
+    },
+    {
+        "profile_id": 10023,
+        "category_name": "Aerial",
+        "dino_diet": "Carnivore",
+        "dino_name": "Ceratopsians",
+        "dino_nickname": "Ceratopsians",
+        "dino_clutch": "5",
+        "dino_image": "https://path-of-titans.fandom.com/wiki/Ceratopsians",
+        "dino_emoji": "",
+        "dino_color": "#ffffff",
+        "summary": "Ceratopsians is a dinosaur found in the Path of Titans universe. More detailed information can be obtained from the Path of Titans wiki.",
+        "dino_profile": {
+            "fields": []
+        }
+    },
+    {
+        "profile_id": 10024,
+        "category_name": "Terrestrial",
+        "dino_diet": "Carnivore",
+        "dino_name": "Ceratosaurus",
+        "dino_nickname": "Ceratosaurus",
+        "dino_clutch": "5",
+        "dino_image": "https://path-of-titans.fandom.com/wiki/Ceratosaurus",
+        "dino_emoji": "",
+        "dino_color": "#ffffff",
+        "summary": "Ceratosaurus is a dinosaur found in the Path of Titans universe. More detailed information can be obtained from the Path of Titans wiki.",
+        "dino_profile": {
+            "fields": []
+        }
+    },
+    {
+        "profile_id": 10025,
+        "category_name": "Aerial",
+        "dino_diet": "Carnivore",
+        "dino_name": "Chaostriceratops",
+        "dino_nickname": "Chaostriceratops",
+        "dino_clutch": "5",
+        "dino_image": "https://path-of-titans.fandom.com/wiki/Chaostriceratops",
+        "dino_emoji": "",
+        "dino_color": "#ffffff",
+        "summary": "Chaostriceratops is a dinosaur found in the Path of Titans universe. More detailed information can be obtained from the Path of Titans wiki.",
+        "dino_profile": {
+            "fields": []
+        }
+    },
+    {
+        "profile_id": 10026,
+        "category_name": "Aerial",
+        "dino_diet": "Carnivore",
+        "dino_name": "Citipati",
+        "dino_nickname": "Citipati",
+        "dino_clutch": "5",
+        "dino_image": "https://path-of-titans.fandom.com/wiki/Citipati",
+        "dino_emoji": "",
+        "dino_color": "#ffffff",
+        "summary": "Citipati is a dinosaur found in the Path of Titans universe. More detailed information can be obtained from the Path of Titans wiki.",
+        "dino_profile": {
+            "fields": []
+        }
+    },
+    {
+        "profile_id": 10027,
+        "category_name": "Aerial",
+        "dino_diet": "Carnivore",
+        "dino_name": "Compsognathus",
+        "dino_nickname": "Compsognathus",
+        "dino_clutch": "5",
+        "dino_image": "https://path-of-titans.fandom.com/wiki/Compsognathus",
+        "dino_emoji": "",
+        "dino_color": "#ffffff",
+        "summary": "Compsognathus is a dinosaur found in the Path of Titans universe. More detailed information can be obtained from the Path of Titans wiki.",
+        "dino_profile": {
+            "fields": []
+        }
+    },
+    {
+        "profile_id": 10028,
+        "category_name": "Aerial",
+        "dino_diet": "Carnivore",
+        "dino_name": "Concavenator",
+        "dino_nickname": "Concavenator",
+        "dino_clutch": "5",
+        "dino_image": "https://path-of-titans.fandom.com/wiki/Concavenator",
+        "dino_emoji": "",
+        "dino_color": "#ffffff",
+        "summary": "Concavenator is a dinosaur found in the Path of Titans universe. More detailed information can be obtained from the Path of Titans wiki.",
+        "dino_profile": {
+            "fields": []
+        }
+    },
+    {
+        "profile_id": 10029,
+        "category_name": "Aerial",
+        "dino_diet": "Carnivore",
+        "dino_name": "Cougar",
+        "dino_nickname": "Cougar",
+        "dino_clutch": "5",
+        "dino_image": "https://path-of-titans.fandom.com/wiki/Cougar",
+        "dino_emoji": "",
+        "dino_color": "#ffffff",
+        "summary": "Cougar is a dinosaur found in the Path of Titans universe. More detailed information can be obtained from the Path of Titans wiki.",
+        "dino_profile": {
+            "fields": []
+        }
+    },
+    {
+        "profile_id": 10030,
+        "category_name": "Terrestrial",
+        "dino_diet": "Carnivore",
+        "dino_name": "Cryolophosaurus (Tci)",
+        "dino_nickname": "Cryolophosaurus (Tci)",
+        "dino_clutch": "5",
+        "dino_image": "https://path-of-titans.fandom.com/wiki/Cryolophosaurus_(Tci)",
+        "dino_emoji": "",
+        "dino_color": "#ffffff",
+        "summary": "Cryolophosaurus (Tci) is a dinosaur found in the Path of Titans universe. More detailed information can be obtained from the Path of Titans wiki.",
+        "dino_profile": {
+            "fields": []
+        }
+    },
+    {
+        "profile_id": 10031,
+        "category_name": "Aerial",
+        "dino_diet": "Carnivore",
+        "dino_name": "Dankanaptera",
+        "dino_nickname": "Dankanaptera",
+        "dino_clutch": "5",
+        "dino_image": "https://path-of-titans.fandom.com/wiki/Dankanaptera",
+        "dino_emoji": "",
+        "dino_color": "#ffffff",
+        "summary": "Dankanaptera is a dinosaur found in the Path of Titans universe. More detailed information can be obtained from the Path of Titans wiki.",
+        "dino_profile": {
+            "fields": []
+        }
+    },
+    {
+        "profile_id": 10032,
+        "category_name": "Terrestrial",
+        "dino_diet": "Carnivore",
+        "dino_name": "Daspletosaurus",
+        "dino_nickname": "Daspletosaurus",
+        "dino_clutch": "5",
+        "dino_image": "https://path-of-titans.fandom.com/wiki/Daspletosaurus",
+        "dino_emoji": "",
+        "dino_color": "#ffffff",
+        "summary": "Daspletosaurus is a dinosaur found in the Path of Titans universe. More detailed information can be obtained from the Path of Titans wiki.",
+        "dino_profile": {
+            "fields": []
+        }
+    },
+    {
+        "profile_id": 10033,
+        "category_name": "Aerial",
+        "dino_diet": "Carnivore",
+        "dino_name": "Deinocheirus",
+        "dino_nickname": "Deinocheirus",
+        "dino_clutch": "5",
+        "dino_image": "https://path-of-titans.fandom.com/wiki/Deinocheirus",
+        "dino_emoji": "",
+        "dino_color": "#ffffff",
+        "summary": "Deinocheirus is a dinosaur found in the Path of Titans universe. More detailed information can be obtained from the Path of Titans wiki.",
+        "dino_profile": {
+            "fields": []
+        }
+    },
+    {
+        "profile_id": 10034,
+        "category_name": "Aerial",
+        "dino_diet": "Carnivore",
+        "dino_name": "Deinonychus",
+        "dino_nickname": "Deinonychus",
+        "dino_clutch": "5",
+        "dino_image": "https://path-of-titans.fandom.com/wiki/Deinonychus",
+        "dino_emoji": "",
+        "dino_color": "#ffffff",
+        "summary": "Deinonychus is a dinosaur found in the Path of Titans universe. More detailed information can be obtained from the Path of Titans wiki.",
+        "dino_profile": {
+            "fields": []
+        }
+    },
+    {
+        "profile_id": 10035,
+        "category_name": "Aerial",
+        "dino_diet": "Carnivore",
+        "dino_name": "Deinosuchus",
+        "dino_nickname": "Deinosuchus",
+        "dino_clutch": "5",
+        "dino_image": "https://path-of-titans.fandom.com/wiki/Deinosuchus",
+        "dino_emoji": "",
+        "dino_color": "#ffffff",
+        "summary": "Deinosuchus is a dinosaur found in the Path of Titans universe. More detailed information can be obtained from the Path of Titans wiki.",
+        "dino_profile": {
+            "fields": []
+        }
+    },
+    {
+        "profile_id": 10036,
+        "category_name": "Aerial",
+        "dino_diet": "Carnivore",
+        "dino_name": "Deltadromeus Agilis",
+        "dino_nickname": "Deltadromeus Agilis",
+        "dino_clutch": "5",
+        "dino_image": "https://path-of-titans.fandom.com/wiki/Deltadromeus_Agilis",
+        "dino_emoji": "",
+        "dino_color": "#ffffff",
+        "summary": "Deltadromeus Agilis is a dinosaur found in the Path of Titans universe. More detailed information can be obtained from the Path of Titans wiki.",
+        "dino_profile": {
+            "fields": []
+        }
+    },
+    {
+        "profile_id": 10037,
+        "category_name": "Terrestrial",
+        "dino_diet": "Carnivore",
+        "dino_name": "Dilophosaurus",
+        "dino_nickname": "Dilophosaurus",
+        "dino_clutch": "5",
+        "dino_image": "https://path-of-titans.fandom.com/wiki/Dilophosaurus",
+        "dino_emoji": "",
+        "dino_color": "#ffffff",
+        "summary": "Dilophosaurus is a dinosaur found in the Path of Titans universe. More detailed information can be obtained from the Path of Titans wiki.",
+        "dino_profile": {
+            "fields": []
+        }
+    },
+    {
+        "profile_id": 10038,
+        "category_name": "Aerial",
+        "dino_diet": "Carnivore",
+        "dino_name": "Dimetrodon",
+        "dino_nickname": "Dimetrodon",
+        "dino_clutch": "5",
+        "dino_image": "https://path-of-titans.fandom.com/wiki/Dimetrodon",
+        "dino_emoji": "",
+        "dino_color": "#ffffff",
+        "summary": "Dimetrodon is a dinosaur found in the Path of Titans universe. More detailed information can be obtained from the Path of Titans wiki.",
+        "dino_profile": {
+            "fields": []
+        }
+    },
+    {
+        "profile_id": 10039,
+        "category_name": "Aerial",
+        "dino_diet": "Carnivore",
+        "dino_name": "Dracoviper",
+        "dino_nickname": "Dracoviper",
+        "dino_clutch": "5",
+        "dino_image": "https://path-of-titans.fandom.com/wiki/Dracoviper",
+        "dino_emoji": "",
+        "dino_color": "#ffffff",
+        "summary": "Dracoviper is a dinosaur found in the Path of Titans universe. More detailed information can be obtained from the Path of Titans wiki.",
+        "dino_profile": {
+            "fields": []
+        }
+    },
+    {
+        "profile_id": 10040,
+        "category_name": "Terrestrial",
+        "dino_diet": "Carnivore",
+        "dino_name": "Dryosaurus",
+        "dino_nickname": "Dryosaurus",
+        "dino_clutch": "5",
+        "dino_image": "https://path-of-titans.fandom.com/wiki/Dryosaurus",
+        "dino_emoji": "",
+        "dino_color": "#ffffff",
+        "summary": "Dryosaurus is a dinosaur found in the Path of Titans universe. More detailed information can be obtained from the Path of Titans wiki.",
+        "dino_profile": {
+            "fields": []
+        }
+    },
+    {
+        "profile_id": 10041,
+        "category_name": "Terrestrial",
+        "dino_diet": "Carnivore",
+        "dino_name": "Dryptosaurus",
+        "dino_nickname": "Dryptosaurus",
+        "dino_clutch": "5",
+        "dino_image": "https://path-of-titans.fandom.com/wiki/Dryptosaurus",
+        "dino_emoji": "",
+        "dino_color": "#ffffff",
+        "summary": "Dryptosaurus is a dinosaur found in the Path of Titans universe. More detailed information can be obtained from the Path of Titans wiki.",
+        "dino_profile": {
+            "fields": []
+        }
+    },
+    {
+        "profile_id": 10042,
+        "category_name": "Aerial",
+        "dino_diet": "Carnivore",
+        "dino_name": "Dunkleosteus",
+        "dino_nickname": "Dunkleosteus",
+        "dino_clutch": "5",
+        "dino_image": "https://path-of-titans.fandom.com/wiki/Dunkleosteus",
+        "dino_emoji": "",
+        "dino_color": "#ffffff",
+        "summary": "Dunkleosteus is a dinosaur found in the Path of Titans universe. More detailed information can be obtained from the Path of Titans wiki.",
+        "dino_profile": {
+            "fields": []
+        }
+    },
+    {
+        "profile_id": 10043,
+        "category_name": "Terrestrial",
+        "dino_diet": "Carnivore",
+        "dino_name": "Edmontosaurus Annectens",
+        "dino_nickname": "Edmontosaurus Annectens",
+        "dino_clutch": "5",
+        "dino_image": "https://path-of-titans.fandom.com/wiki/Edmontosaurus_Annectens",
+        "dino_emoji": "",
+        "dino_color": "#ffffff",
+        "summary": "Edmontosaurus Annectens is a dinosaur found in the Path of Titans universe. More detailed information can be obtained from the Path of Titans wiki.",
+        "dino_profile": {
+            "fields": []
+        }
+    },
+    {
+        "profile_id": 10044,
+        "category_name": "Terrestrial",
+        "dino_diet": "Carnivore",
+        "dino_name": "Edmontosaurus Regalis",
+        "dino_nickname": "Edmontosaurus Regalis",
+        "dino_clutch": "5",
+        "dino_image": "https://path-of-titans.fandom.com/wiki/Edmontosaurus_Regalis",
+        "dino_emoji": "",
+        "dino_color": "#ffffff",
+        "summary": "Edmontosaurus Regalis is a dinosaur found in the Path of Titans universe. More detailed information can be obtained from the Path of Titans wiki.",
+        "dino_profile": {
+            "fields": []
+        }
+    },
+    {
+        "profile_id": 10045,
+        "category_name": "Aerial",
+        "dino_diet": "Carnivore",
+        "dino_name": "Eotriceratops",
+        "dino_nickname": "Eotriceratops",
+        "dino_clutch": "5",
+        "dino_image": "https://path-of-titans.fandom.com/wiki/Eotriceratops",
+        "dino_emoji": "",
+        "dino_color": "#ffffff",
+        "summary": "Eotriceratops is a dinosaur found in the Path of Titans universe. More detailed information can be obtained from the Path of Titans wiki.",
+        "dino_profile": {
+            "fields": []
+        }
+    },
+    {
+        "profile_id": 10046,
+        "category_name": "Aerial",
+        "dino_diet": "Carnivore",
+        "dino_name": "Eotriceratops (Pb)",
+        "dino_nickname": "Eotriceratops (Pb)",
+        "dino_clutch": "5",
+        "dino_image": "https://path-of-titans.fandom.com/wiki/Eotriceratops_(Pb)",
+        "dino_emoji": "",
+        "dino_color": "#ffffff",
+        "summary": "Eotriceratops (Pb) is a dinosaur found in the Path of Titans universe. More detailed information can be obtained from the Path of Titans wiki.",
+        "dino_profile": {
+            "fields": []
+        }
+    },
+    {
+        "profile_id": 10047,
+        "category_name": "Terrestrial",
+        "dino_diet": "Carnivore",
+        "dino_name": "Eurhinosaurus",
+        "dino_nickname": "Eurhinosaurus",
+        "dino_clutch": "5",
+        "dino_image": "https://path-of-titans.fandom.com/wiki/Eurhinosaurus",
+        "dino_emoji": "",
+        "dino_color": "#ffffff",
+        "summary": "Eurhinosaurus is a dinosaur found in the Path of Titans universe. More detailed information can be obtained from the Path of Titans wiki.",
+        "dino_profile": {
+            "fields": []
+        }
+    },
+    {
+        "profile_id": 10048,
+        "category_name": "Aerial",
+        "dino_diet": "Carnivore",
+        "dino_name": "Gigamandra",
+        "dino_nickname": "Gigamandra",
+        "dino_clutch": "5",
+        "dino_image": "https://path-of-titans.fandom.com/wiki/Gigamandra",
+        "dino_emoji": "",
+        "dino_color": "#ffffff",
+        "summary": "Gigamandra is a dinosaur found in the Path of Titans universe. More detailed information can be obtained from the Path of Titans wiki.",
+        "dino_profile": {
+            "fields": []
+        }
+    },
+    {
+        "profile_id": 10049,
+        "category_name": "Terrestrial",
+        "dino_diet": "Carnivore",
+        "dino_name": "Giganotosaurus",
+        "dino_nickname": "Giganotosaurus",
+        "dino_clutch": "5",
+        "dino_image": "https://path-of-titans.fandom.com/wiki/Giganotosaurus",
+        "dino_emoji": "",
+        "dino_color": "#ffffff",
+        "summary": "Giganotosaurus is a dinosaur found in the Path of Titans universe. More detailed information can be obtained from the Path of Titans wiki.",
+        "dino_profile": {
+            "fields": []
+        }
+    },
+    {
+        "profile_id": 10050,
+        "category_name": "Aerial",
+        "dino_diet": "Carnivore",
+        "dino_name": "Golugore",
+        "dino_nickname": "Golugore",
+        "dino_clutch": "5",
+        "dino_image": "https://path-of-titans.fandom.com/wiki/Golugore",
+        "dino_emoji": "",
+        "dino_color": "#ffffff",
+        "summary": "Golugore is a dinosaur found in the Path of Titans universe. More detailed information can be obtained from the Path of Titans wiki.",
+        "dino_profile": {
+            "fields": []
+        }
+    },
+    {
+        "profile_id": 10051,
+        "category_name": "Aerial",
+        "dino_diet": "Carnivore",
+        "dino_name": "Gonaria",
+        "dino_nickname": "Gonaria",
+        "dino_clutch": "5",
+        "dino_image": "https://path-of-titans.fandom.com/wiki/Gonaria",
+        "dino_emoji": "",
+        "dino_color": "#ffffff",
+        "summary": "Gonaria is a dinosaur found in the Path of Titans universe. More detailed information can be obtained from the Path of Titans wiki.",
+        "dino_profile": {
+            "fields": []
+        }
+    },
+    {
+        "profile_id": 10052,
+        "category_name": "Aerial",
+        "dino_diet": "Carnivore",
+        "dino_name": "Griffin",
+        "dino_nickname": "Griffin",
+        "dino_clutch": "5",
+        "dino_image": "https://path-of-titans.fandom.com/wiki/Griffin",
+        "dino_emoji": "",
+        "dino_color": "#ffffff",
+        "summary": "Griffin is a dinosaur found in the Path of Titans universe. More detailed information can be obtained from the Path of Titans wiki.",
+        "dino_profile": {
+            "fields": []
+        }
+    },
+    {
+        "profile_id": 10053,
+        "category_name": "Aerial",
+        "dino_diet": "Carnivore",
+        "dino_name": "Hadrosauridae",
+        "dino_nickname": "Hadrosauridae",
+        "dino_clutch": "5",
+        "dino_image": "https://path-of-titans.fandom.com/wiki/Hadrosauridae",
+        "dino_emoji": "",
+        "dino_color": "#ffffff",
+        "summary": "Hadrosauridae is a dinosaur found in the Path of Titans universe. More detailed information can be obtained from the Path of Titans wiki.",
+        "dino_profile": {
+            "fields": []
+        }
+    },
+    {
+        "profile_id": 10054,
+        "category_name": "Aerial",
+        "dino_diet": "Carnivore",
+        "dino_name": "Hannek",
+        "dino_nickname": "Hannek",
+        "dino_clutch": "5",
+        "dino_image": "https://path-of-titans.fandom.com/wiki/Hannek",
+        "dino_emoji": "",
+        "dino_color": "#ffffff",
+        "summary": "Hannek is a dinosaur found in the Path of Titans universe. More detailed information can be obtained from the Path of Titans wiki.",
+        "dino_profile": {
+            "fields": []
+        }
+    },
+    {
+        "profile_id": 10055,
+        "category_name": "Aerial",
+        "dino_diet": "Carnivore",
+        "dino_name": "Hatzegopteryx",
+        "dino_nickname": "Hatzegopteryx",
+        "dino_clutch": "5",
+        "dino_image": "https://path-of-titans.fandom.com/wiki/Hatzegopteryx",
+        "dino_emoji": "",
+        "dino_color": "#ffffff",
+        "summary": "Hatzegopteryx is a dinosaur found in the Path of Titans universe. More detailed information can be obtained from the Path of Titans wiki.",
+        "dino_profile": {
+            "fields": []
+        }
+    },
+    {
+        "profile_id": 10056,
+        "category_name": "Aerial",
+        "dino_diet": "Carnivore",
+        "dino_name": "Hebu-Bebu",
+        "dino_nickname": "Hebu-Bebu",
+        "dino_clutch": "5",
+        "dino_image": "https://path-of-titans.fandom.com/wiki/Hebu-Bebu",
+        "dino_emoji": "",
+        "dino_color": "#ffffff",
+        "summary": "Hebu-Bebu is a dinosaur found in the Path of Titans universe. More detailed information can be obtained from the Path of Titans wiki.",
+        "dino_profile": {
+            "fields": []
+        }
+    },
+    {
+        "profile_id": 10057,
+        "category_name": "Aerial",
+        "dino_diet": "Carnivore",
+        "dino_name": "Iguanodon",
+        "dino_nickname": "Iguanodon",
+        "dino_clutch": "5",
+        "dino_image": "https://path-of-titans.fandom.com/wiki/Iguanodon",
+        "dino_emoji": "",
+        "dino_color": "#ffffff",
+        "summary": "Iguanodon is a dinosaur found in the Path of Titans universe. More detailed information can be obtained from the Path of Titans wiki.",
+        "dino_profile": {
+            "fields": []
+        }
+    },
+    {
+        "profile_id": 10058,
+        "category_name": "Aerial",
+        "dino_diet": "Carnivore",
+        "dino_name": "Inostrancevia",
+        "dino_nickname": "Inostrancevia",
+        "dino_clutch": "5",
+        "dino_image": "https://path-of-titans.fandom.com/wiki/Inostrancevia",
+        "dino_emoji": "",
+        "dino_color": "#ffffff",
+        "summary": "Inostrancevia is a dinosaur found in the Path of Titans universe. More detailed information can be obtained from the Path of Titans wiki.",
+        "dino_profile": {
+            "fields": []
+        }
+    },
+    {
+        "profile_id": 10059,
+        "category_name": "Aerial",
+        "dino_diet": "Carnivore",
+        "dino_name": "Japanese Giant Salamander",
+        "dino_nickname": "Japanese Giant Salamander",
+        "dino_clutch": "5",
+        "dino_image": "https://path-of-titans.fandom.com/wiki/Japanese_Giant_Salamander",
+        "dino_emoji": "",
+        "dino_color": "#ffffff",
+        "summary": "Japanese Giant Salamander is a dinosaur found in the Path of Titans universe. More detailed information can be obtained from the Path of Titans wiki.",
+        "dino_profile": {
+            "fields": []
+        }
+    },
+    {
+        "profile_id": 10060,
+        "category_name": "Aerial",
+        "dino_diet": "Carnivore",
+        "dino_name": "Kaiwhekea",
+        "dino_nickname": "Kaiwhekea",
+        "dino_clutch": "5",
+        "dino_image": "https://path-of-titans.fandom.com/wiki/Kaiwhekea",
+        "dino_emoji": "",
+        "dino_color": "#ffffff",
+        "summary": "Kaiwhekea is a dinosaur found in the Path of Titans universe. More detailed information can be obtained from the Path of Titans wiki.",
+        "dino_profile": {
+            "fields": []
+        }
+    },
+    {
+        "profile_id": 10061,
+        "category_name": "Aerial",
+        "dino_diet": "Carnivore",
+        "dino_name": "Kaprosuchus",
+        "dino_nickname": "Kaprosuchus",
+        "dino_clutch": "5",
+        "dino_image": "https://path-of-titans.fandom.com/wiki/Kaprosuchus",
+        "dino_emoji": "",
+        "dino_color": "#ffffff",
+        "summary": "Kaprosuchus is a dinosaur found in the Path of Titans universe. More detailed information can be obtained from the Path of Titans wiki.",
+        "dino_profile": {
+            "fields": []
+        }
+    },
+    {
+        "profile_id": 10062,
+        "category_name": "Aerial",
+        "dino_diet": "Carnivore",
+        "dino_name": "Kelenken",
+        "dino_nickname": "Kelenken",
+        "dino_clutch": "5",
+        "dino_image": "https://path-of-titans.fandom.com/wiki/Kelenken",
+        "dino_emoji": "",
+        "dino_color": "#ffffff",
+        "summary": "Kelenken is a dinosaur found in the Path of Titans universe. More detailed information can be obtained from the Path of Titans wiki.",
+        "dino_profile": {
+            "fields": []
+        }
+    },
+    {
+        "profile_id": 10063,
+        "category_name": "Terrestrial",
+        "dino_diet": "Carnivore",
+        "dino_name": "Kentrosaurus",
+        "dino_nickname": "Kentrosaurus",
+        "dino_clutch": "5",
+        "dino_image": "https://path-of-titans.fandom.com/wiki/Kentrosaurus",
+        "dino_emoji": "",
+        "dino_color": "#ffffff",
+        "summary": "Kentrosaurus is a dinosaur found in the Path of Titans universe. More detailed information can be obtained from the Path of Titans wiki.",
+        "dino_profile": {
+            "fields": []
+        }
+    },
+    {
+        "profile_id": 10064,
+        "category_name": "Aerial",
+        "dino_diet": "Carnivore",
+        "dino_name": "Kryptops",
+        "dino_nickname": "Kryptops",
+        "dino_clutch": "5",
+        "dino_image": "https://path-of-titans.fandom.com/wiki/Kryptops",
+        "dino_emoji": "",
+        "dino_color": "#ffffff",
+        "summary": "Kryptops is a dinosaur found in the Path of Titans universe. More detailed information can be obtained from the Path of Titans wiki.",
+        "dino_profile": {
+            "fields": []
+        }
+    },
+    {
+        "profile_id": 10065,
+        "category_name": "Terrestrial",
+        "dino_diet": "Carnivore",
+        "dino_name": "Lambeosaurus",
+        "dino_nickname": "Lambeosaurus",
+        "dino_clutch": "5",
+        "dino_image": "https://path-of-titans.fandom.com/wiki/Lambeosaurus",
+        "dino_emoji": "",
+        "dino_color": "#ffffff",
+        "summary": "Lambeosaurus is a dinosaur found in the Path of Titans universe. More detailed information can be obtained from the Path of Titans wiki.",
+        "dino_profile": {
+            "fields": []
+        }
+    },
+    {
+        "profile_id": 10066,
+        "category_name": "Aerial",
+        "dino_diet": "Carnivore",
+        "dino_name": "Latenivenatrix",
+        "dino_nickname": "Latenivenatrix",
+        "dino_clutch": "5",
+        "dino_image": "https://path-of-titans.fandom.com/wiki/Latenivenatrix",
+        "dino_emoji": "",
+        "dino_color": "#ffffff",
+        "summary": "Latenivenatrix is a dinosaur found in the Path of Titans universe. More detailed information can be obtained from the Path of Titans wiki.",
+        "dino_profile": {
+            "fields": []
+        }
+    },
+    {
+        "profile_id": 10067,
+        "category_name": "Aerial",
+        "dino_diet": "Carnivore",
+        "dino_name": "Leedsichthys",
+        "dino_nickname": "Leedsichthys",
+        "dino_clutch": "5",
+        "dino_image": "https://path-of-titans.fandom.com/wiki/Leedsichthys",
+        "dino_emoji": "",
+        "dino_color": "#ffffff",
+        "summary": "Leedsichthys is a dinosaur found in the Path of Titans universe. More detailed information can be obtained from the Path of Titans wiki.",
+        "dino_profile": {
+            "fields": []
+        }
+    },
+    {
+        "profile_id": 10068,
+        "category_name": "Terrestrial",
+        "dino_diet": "Carnivore",
+        "dino_name": "Lurdusaurus",
+        "dino_nickname": "Lurdusaurus",
+        "dino_clutch": "5",
+        "dino_image": "https://path-of-titans.fandom.com/wiki/Lurdusaurus",
+        "dino_emoji": "",
+        "dino_color": "#ffffff",
+        "summary": "Lurdusaurus is a dinosaur found in the Path of Titans universe. More detailed information can be obtained from the Path of Titans wiki.",
+        "dino_profile": {
+            "fields": []
+        }
+    },
+    {
+        "profile_id": 10069,
+        "category_name": "Aerial",
+        "dino_diet": "Carnivore",
+        "dino_name": "Madrehorn",
+        "dino_nickname": "Madrehorn",
+        "dino_clutch": "5",
+        "dino_image": "https://path-of-titans.fandom.com/wiki/Madrehorn",
+        "dino_emoji": "",
+        "dino_color": "#ffffff",
+        "summary": "Madrehorn is a dinosaur found in the Path of Titans universe. More detailed information can be obtained from the Path of Titans wiki.",
+        "dino_profile": {
+            "fields": []
+        }
+    },
+    {
+        "profile_id": 10070,
+        "category_name": "Aerial",
+        "dino_diet": "Carnivore",
+        "dino_name": "Maip",
+        "dino_nickname": "Maip",
+        "dino_clutch": "5",
+        "dino_image": "https://path-of-titans.fandom.com/wiki/Maip",
+        "dino_emoji": "",
+        "dino_color": "#ffffff",
+        "summary": "Maip is a dinosaur found in the Path of Titans universe. More detailed information can be obtained from the Path of Titans wiki.",
+        "dino_profile": {
+            "fields": []
+        }
+    },
+    {
+        "profile_id": 10071,
+        "category_name": "Aerial",
+        "dino_diet": "Carnivore",
+        "dino_name": "Mammuthus Columbi",
+        "dino_nickname": "Mammuthus Columbi",
+        "dino_clutch": "5",
+        "dino_image": "https://path-of-titans.fandom.com/wiki/Mammuthus_Columbi",
+        "dino_emoji": "",
+        "dino_color": "#ffffff",
+        "summary": "Mammuthus Columbi is a dinosaur found in the Path of Titans universe. More detailed information can be obtained from the Path of Titans wiki.",
+        "dino_profile": {
+            "fields": []
+        }
+    },
+    {
+        "profile_id": 10072,
+        "category_name": "Aerial",
+        "dino_diet": "Carnivore",
+        "dino_name": "Megalania",
+        "dino_nickname": "Megalania",
+        "dino_clutch": "5",
+        "dino_image": "https://path-of-titans.fandom.com/wiki/Megalania",
+        "dino_emoji": "",
+        "dino_color": "#ffffff",
+        "summary": "Megalania is a dinosaur found in the Path of Titans universe. More detailed information can be obtained from the Path of Titans wiki.",
+        "dino_profile": {
+            "fields": []
+        }
+    },
+    {
+        "profile_id": 10073,
+        "category_name": "Terrestrial",
+        "dino_diet": "Carnivore",
+        "dino_name": "Metriacanthosaurus",
+        "dino_nickname": "Metriacanthosaurus",
+        "dino_clutch": "5",
+        "dino_image": "https://path-of-titans.fandom.com/wiki/Metriacanthosaurus",
+        "dino_emoji": "",
+        "dino_color": "#ffffff",
+        "summary": "Metriacanthosaurus is a dinosaur found in the Path of Titans universe. More detailed information can be obtained from the Path of Titans wiki.",
+        "dino_profile": {
+            "fields": []
+        }
+    },
+    {
+        "profile_id": 10074,
+        "category_name": "Aerial",
+        "dino_diet": "Carnivore",
+        "dino_name": "Microraptor",
+        "dino_nickname": "Microraptor",
+        "dino_clutch": "5",
+        "dino_image": "https://path-of-titans.fandom.com/wiki/Microraptor",
+        "dino_emoji": "",
+        "dino_color": "#ffffff",
+        "summary": "Microraptor is a dinosaur found in the Path of Titans universe. More detailed information can be obtained from the Path of Titans wiki.",
+        "dino_profile": {
+            "fields": []
+        }
+    },
+    {
+        "profile_id": 10075,
+        "category_name": "Aerial",
+        "dino_diet": "Carnivore",
+        "dino_name": "Miragaia",
+        "dino_nickname": "Miragaia",
+        "dino_clutch": "5",
+        "dino_image": "https://path-of-titans.fandom.com/wiki/Miragaia",
+        "dino_emoji": "",
+        "dino_color": "#ffffff",
+        "summary": "Miragaia is a dinosaur found in the Path of Titans universe. More detailed information can be obtained from the Path of Titans wiki.",
+        "dino_profile": {
+            "fields": []
+        }
+    },
+    {
+        "profile_id": 10076,
+        "category_name": "Aerial",
+        "dino_diet": "Carnivore",
+        "dino_name": "Moraquile",
+        "dino_nickname": "Moraquile",
+        "dino_clutch": "5",
+        "dino_image": "https://path-of-titans.fandom.com/wiki/Moraquile",
+        "dino_emoji": "",
+        "dino_color": "#ffffff",
+        "summary": "Moraquile is a dinosaur found in the Path of Titans universe. More detailed information can be obtained from the Path of Titans wiki.",
+        "dino_profile": {
+            "fields": []
+        }
+    },
+    {
+        "profile_id": 10077,
+        "category_name": "Terrestrial",
+        "dino_diet": "Carnivore",
+        "dino_name": "Mosasaurus",
+        "dino_nickname": "Mosasaurus",
+        "dino_clutch": "5",
+        "dino_image": "https://path-of-titans.fandom.com/wiki/Mosasaurus",
+        "dino_emoji": "",
+        "dino_color": "#ffffff",
+        "summary": "Mosasaurus is a dinosaur found in the Path of Titans universe. More detailed information can be obtained from the Path of Titans wiki.",
+        "dino_profile": {
+            "fields": []
+        }
+    },
+    {
+        "profile_id": 10078,
+        "category_name": "Aerial",
+        "dino_diet": "Carnivore",
+        "dino_name": "Nasutoceratops",
+        "dino_nickname": "Nasutoceratops",
+        "dino_clutch": "5",
+        "dino_image": "https://path-of-titans.fandom.com/wiki/Nasutoceratops",
+        "dino_emoji": "",
+        "dino_color": "#ffffff",
+        "summary": "Nasutoceratops is a dinosaur found in the Path of Titans universe. More detailed information can be obtained from the Path of Titans wiki.",
+        "dino_profile": {
+            "fields": []
+        }
+    },
+    {
+        "profile_id": 10079,
+        "category_name": "Aerial",
+        "dino_diet": "Carnivore",
+        "dino_name": "Noviana",
+        "dino_nickname": "Noviana",
+        "dino_clutch": "5",
+        "dino_image": "https://path-of-titans.fandom.com/wiki/Noviana",
+        "dino_emoji": "",
+        "dino_color": "#ffffff",
+        "summary": "Noviana is a dinosaur found in the Path of Titans universe. More detailed information can be obtained from the Path of Titans wiki.",
+        "dino_profile": {
+            "fields": []
+        }
+    },
+    {
+        "profile_id": 10080,
+        "category_name": "Aerial",
+        "dino_diet": "Carnivore",
+        "dino_name": "Nyctatyrannus",
+        "dino_nickname": "Nyctatyrannus",
+        "dino_clutch": "5",
+        "dino_image": "https://path-of-titans.fandom.com/wiki/Nyctatyrannus",
+        "dino_emoji": "",
+        "dino_color": "#ffffff",
+        "summary": "Nyctatyrannus is a dinosaur found in the Path of Titans universe. More detailed information can be obtained from the Path of Titans wiki.",
+        "dino_profile": {
+            "fields": []
+        }
+    },
+    {
+        "profile_id": 10081,
+        "category_name": "Aerial",
+        "dino_diet": "Carnivore",
+        "dino_name": "Ocepechelon",
+        "dino_nickname": "Ocepechelon",
+        "dino_clutch": "5",
+        "dino_image": "https://path-of-titans.fandom.com/wiki/Ocepechelon",
+        "dino_emoji": "",
+        "dino_color": "#ffffff",
+        "summary": "Ocepechelon is a dinosaur found in the Path of Titans universe. More detailed information can be obtained from the Path of Titans wiki.",
+        "dino_profile": {
+            "fields": []
+        }
+    },
+    {
+        "profile_id": 10082,
+        "category_name": "Aerial",
+        "dino_diet": "Carnivore",
+        "dino_name": "Ophis",
+        "dino_nickname": "Ophis",
+        "dino_clutch": "5",
+        "dino_image": "https://path-of-titans.fandom.com/wiki/Ophis",
+        "dino_emoji": "",
+        "dino_color": "#ffffff",
+        "summary": "Ophis is a dinosaur found in the Path of Titans universe. More detailed information can be obtained from the Path of Titans wiki.",
+        "dino_profile": {
+            "fields": []
+        }
+    },
+    {
+        "profile_id": 10083,
+        "category_name": "Terrestrial",
+        "dino_diet": "Carnivore",
+        "dino_name": "Pachycephalosaurus",
+        "dino_nickname": "Pachycephalosaurus",
+        "dino_clutch": "5",
+        "dino_image": "https://path-of-titans.fandom.com/wiki/Pachycephalosaurus",
+        "dino_emoji": "",
+        "dino_color": "#ffffff",
+        "summary": "Pachycephalosaurus is a dinosaur found in the Path of Titans universe. More detailed information can be obtained from the Path of Titans wiki.",
+        "dino_profile": {
+            "fields": []
+        }
+    },
+    {
+        "profile_id": 10084,
+        "category_name": "Terrestrial",
+        "dino_diet": "Carnivore",
+        "dino_name": "Pachycephalosaurus (Beaked)",
+        "dino_nickname": "Pachycephalosaurus (Beaked)",
+        "dino_clutch": "5",
+        "dino_image": "https://path-of-titans.fandom.com/wiki/Pachycephalosaurus_(Beaked)",
+        "dino_emoji": "",
+        "dino_color": "#ffffff",
+        "summary": "Pachycephalosaurus (Beaked) is a dinosaur found in the Path of Titans universe. More detailed information can be obtained from the Path of Titans wiki.",
+        "dino_profile": {
+            "fields": []
+        }
+    },
+    {
+        "profile_id": 10085,
+        "category_name": "Aerial",
+        "dino_diet": "Carnivore",
+        "dino_name": "Parasaurolophus",
+        "dino_nickname": "Parasaurolophus",
+        "dino_clutch": "5",
+        "dino_image": "https://path-of-titans.fandom.com/wiki/Parasaurolophus",
+        "dino_emoji": "",
+        "dino_color": "#ffffff",
+        "summary": "Parasaurolophus is a dinosaur found in the Path of Titans universe. More detailed information can be obtained from the Path of Titans wiki.",
+        "dino_profile": {
+            "fields": []
+        }
+    },
+    {
+        "profile_id": 10086,
+        "category_name": "Aerial",
+        "dino_diet": "Carnivore",
+        "dino_name": "Pentaceratops",
+        "dino_nickname": "Pentaceratops",
+        "dino_clutch": "5",
+        "dino_image": "https://path-of-titans.fandom.com/wiki/Pentaceratops",
+        "dino_emoji": "",
+        "dino_color": "#ffffff",
+        "summary": "Pentaceratops is a dinosaur found in the Path of Titans universe. More detailed information can be obtained from the Path of Titans wiki.",
+        "dino_profile": {
+            "fields": []
+        }
+    },
+    {
+        "profile_id": 10087,
+        "category_name": "Aerial",
+        "dino_diet": "Carnivore",
+        "dino_name": "Platyhystrix",
+        "dino_nickname": "Platyhystrix",
+        "dino_clutch": "5",
+        "dino_image": "https://path-of-titans.fandom.com/wiki/Platyhystrix",
+        "dino_emoji": "",
+        "dino_color": "#ffffff",
+        "summary": "Platyhystrix is a dinosaur found in the Path of Titans universe. More detailed information can be obtained from the Path of Titans wiki.",
+        "dino_profile": {
+            "fields": []
+        }
+    },
+    {
+        "profile_id": 10088,
+        "category_name": "Terrestrial",
+        "dino_diet": "Carnivore",
+        "dino_name": "Psittacosaurus",
+        "dino_nickname": "Psittacosaurus",
+        "dino_clutch": "5",
+        "dino_image": "https://path-of-titans.fandom.com/wiki/Psittacosaurus",
+        "dino_emoji": "",
+        "dino_color": "#ffffff",
+        "summary": "Psittacosaurus is a dinosaur found in the Path of Titans universe. More detailed information can be obtained from the Path of Titans wiki.",
+        "dino_profile": {
+            "fields": []
+        }
+    },
+    {
+        "profile_id": 10089,
+        "category_name": "Terrestrial",
+        "dino_diet": "Carnivore",
+        "dino_name": "Pycnonemosaurus",
+        "dino_nickname": "Pycnonemosaurus",
+        "dino_clutch": "5",
+        "dino_image": "https://path-of-titans.fandom.com/wiki/Pycnonemosaurus",
+        "dino_emoji": "",
+        "dino_color": "#ffffff",
+        "summary": "Pycnonemosaurus is a dinosaur found in the Path of Titans universe. More detailed information can be obtained from the Path of Titans wiki.",
+        "dino_profile": {
+            "fields": []
+        }
+    },
+    {
+        "profile_id": 10090,
+        "category_name": "Aerial",
+        "dino_diet": "Carnivore",
+        "dino_name": "Quetzalcoatlus",
+        "dino_nickname": "Quetzalcoatlus",
+        "dino_clutch": "5",
+        "dino_image": "https://path-of-titans.fandom.com/wiki/Quetzalcoatlus",
+        "dino_emoji": "",
+        "dino_color": "#ffffff",
+        "summary": "Quetzalcoatlus is a dinosaur found in the Path of Titans universe. More detailed information can be obtained from the Path of Titans wiki.",
+        "dino_profile": {
+            "fields": []
+        }
+    },
+    {
+        "profile_id": 10091,
+        "category_name": "Aerial",
+        "dino_diet": "Carnivore",
+        "dino_name": "Rhamphorhynchus",
+        "dino_nickname": "Rhamphorhynchus",
+        "dino_clutch": "5",
+        "dino_image": "https://path-of-titans.fandom.com/wiki/Rhamphorhynchus",
+        "dino_emoji": "",
+        "dino_color": "#ffffff",
+        "summary": "Rhamphorhynchus is a dinosaur found in the Path of Titans universe. More detailed information can be obtained from the Path of Titans wiki.",
+        "dino_profile": {
+            "fields": []
+        }
+    },
+    {
+        "profile_id": 10092,
+        "category_name": "Terrestrial",
+        "dino_diet": "Carnivore",
+        "dino_name": "Sachicasaurus",
+        "dino_nickname": "Sachicasaurus",
+        "dino_clutch": "5",
+        "dino_image": "https://path-of-titans.fandom.com/wiki/Sachicasaurus",
+        "dino_emoji": "",
+        "dino_color": "#ffffff",
+        "summary": "Sachicasaurus is a dinosaur found in the Path of Titans universe. More detailed information can be obtained from the Path of Titans wiki.",
+        "dino_profile": {
+            "fields": []
+        }
+    },
+    {
+        "profile_id": 10093,
+        "category_name": "Aerial",
+        "dino_diet": "Carnivore",
+        "dino_name": "Sarcosuchus",
+        "dino_nickname": "Sarcosuchus",
+        "dino_clutch": "5",
+        "dino_image": "https://path-of-titans.fandom.com/wiki/Sarcosuchus",
+        "dino_emoji": "",
+        "dino_color": "#ffffff",
+        "summary": "Sarcosuchus is a dinosaur found in the Path of Titans universe. More detailed information can be obtained from the Path of Titans wiki.",
+        "dino_profile": {
+            "fields": []
+        }
+    },
+    {
+        "profile_id": 10094,
+        "category_name": "Aerial",
+        "dino_diet": "Carnivore",
+        "dino_name": "Smilodon",
+        "dino_nickname": "Smilodon",
+        "dino_clutch": "5",
+        "dino_image": "https://path-of-titans.fandom.com/wiki/Smilodon",
+        "dino_emoji": "",
+        "dino_color": "#ffffff",
+        "summary": "Smilodon is a dinosaur found in the Path of Titans universe. More detailed information can be obtained from the Path of Titans wiki.",
+        "dino_profile": {
+            "fields": []
+        }
+    },
+    {
+        "profile_id": 10095,
+        "category_name": "Terrestrial",
+        "dino_diet": "Carnivore",
+        "dino_name": "Spinosaurus",
+        "dino_nickname": "Spinosaurus",
+        "dino_clutch": "5",
+        "dino_image": "https://path-of-titans.fandom.com/wiki/Spinosaurus",
+        "dino_emoji": "",
+        "dino_color": "#ffffff",
+        "summary": "Spinosaurus is a dinosaur found in the Path of Titans universe. More detailed information can be obtained from the Path of Titans wiki.",
+        "dino_profile": {
+            "fields": []
+        }
+    },
+    {
+        "profile_id": 10096,
+        "category_name": "Aerial",
+        "dino_diet": "Carnivore",
+        "dino_name": "Squalicorax",
+        "dino_nickname": "Squalicorax",
+        "dino_clutch": "5",
+        "dino_image": "https://path-of-titans.fandom.com/wiki/Squalicorax",
+        "dino_emoji": "",
+        "dino_color": "#ffffff",
+        "summary": "Squalicorax is a dinosaur found in the Path of Titans universe. More detailed information can be obtained from the Path of Titans wiki.",
+        "dino_profile": {
+            "fields": []
+        }
+    },
+    {
+        "profile_id": 10097,
+        "category_name": "Terrestrial",
+        "dino_diet": "Carnivore",
+        "dino_name": "Stegosaurus",
+        "dino_nickname": "Stegosaurus",
+        "dino_clutch": "5",
+        "dino_image": "https://path-of-titans.fandom.com/wiki/Stegosaurus",
+        "dino_emoji": "",
+        "dino_color": "#ffffff",
+        "summary": "Stegosaurus is a dinosaur found in the Path of Titans universe. More detailed information can be obtained from the Path of Titans wiki.",
+        "dino_profile": {
+            "fields": []
+        }
+    },
+    {
+        "profile_id": 10098,
+        "category_name": "Aerial",
+        "dino_diet": "Carnivore",
+        "dino_name": "Struthiomimus",
+        "dino_nickname": "Struthiomimus",
+        "dino_clutch": "5",
+        "dino_image": "https://path-of-titans.fandom.com/wiki/Struthiomimus",
+        "dino_emoji": "",
+        "dino_color": "#ffffff",
+        "summary": "Struthiomimus is a dinosaur found in the Path of Titans universe. More detailed information can be obtained from the Path of Titans wiki.",
+        "dino_profile": {
+            "fields": []
+        }
+    },
+    {
+        "profile_id": 10099,
+        "category_name": "Terrestrial",
+        "dino_diet": "Carnivore",
+        "dino_name": "Styracosaurus",
+        "dino_nickname": "Styracosaurus",
+        "dino_clutch": "5",
+        "dino_image": "https://path-of-titans.fandom.com/wiki/Styracosaurus",
+        "dino_emoji": "",
+        "dino_color": "#ffffff",
+        "summary": "Styracosaurus is a dinosaur found in the Path of Titans universe. More detailed information can be obtained from the Path of Titans wiki.",
+        "dino_profile": {
+            "fields": []
+        }
+    },
+    {
+        "profile_id": 10100,
+        "category_name": "Aerial",
+        "dino_diet": "Carnivore",
+        "dino_name": "Suchomimus",
+        "dino_nickname": "Suchomimus",
+        "dino_clutch": "5",
+        "dino_image": "https://path-of-titans.fandom.com/wiki/Suchomimus",
+        "dino_emoji": "",
+        "dino_color": "#ffffff",
+        "summary": "Suchomimus is a dinosaur found in the Path of Titans universe. More detailed information can be obtained from the Path of Titans wiki.",
+        "dino_profile": {
+            "fields": []
+        }
+    },
+    {
+        "profile_id": 10101,
+        "category_name": "Aerial",
+        "dino_diet": "Carnivore",
+        "dino_name": "Susecdurus",
+        "dino_nickname": "Susecdurus",
+        "dino_clutch": "5",
+        "dino_image": "https://path-of-titans.fandom.com/wiki/Susecdurus",
+        "dino_emoji": "",
+        "dino_color": "#ffffff",
+        "summary": "Susecdurus is a dinosaur found in the Path of Titans universe. More detailed information can be obtained from the Path of Titans wiki.",
+        "dino_profile": {
+            "fields": []
+        }
+    },
+    {
+        "profile_id": 10102,
+        "category_name": "Terrestrial",
+        "dino_diet": "Carnivore",
+        "dino_name": "Tenontosaurus",
+        "dino_nickname": "Tenontosaurus",
+        "dino_clutch": "5",
+        "dino_image": "https://path-of-titans.fandom.com/wiki/Tenontosaurus",
+        "dino_emoji": "",
+        "dino_color": "#ffffff",
+        "summary": "Tenontosaurus is a dinosaur found in the Path of Titans universe. More detailed information can be obtained from the Path of Titans wiki.",
+        "dino_profile": {
+            "fields": []
+        }
+    },
+    {
+        "profile_id": 10103,
+        "category_name": "Aerial",
+        "dino_diet": "Carnivore",
+        "dino_name": "Thalasrex",
+        "dino_nickname": "Thalasrex",
+        "dino_clutch": "5",
+        "dino_image": "https://path-of-titans.fandom.com/wiki/Thalasrex",
+        "dino_emoji": "",
+        "dino_color": "#ffffff",
+        "summary": "Thalasrex is a dinosaur found in the Path of Titans universe. More detailed information can be obtained from the Path of Titans wiki.",
+        "dino_profile": {
+            "fields": []
+        }
+    },
+    {
+        "profile_id": 10104,
+        "category_name": "Aerial",
+        "dino_diet": "Carnivore",
+        "dino_name": "Thalassodromeus",
+        "dino_nickname": "Thalassodromeus",
+        "dino_clutch": "5",
+        "dino_image": "https://path-of-titans.fandom.com/wiki/Thalassodromeus",
+        "dino_emoji": "",
+        "dino_color": "#ffffff",
+        "summary": "Thalassodromeus is a dinosaur found in the Path of Titans universe. More detailed information can be obtained from the Path of Titans wiki.",
+        "dino_profile": {
+            "fields": []
+        }
+    },
+    {
+        "profile_id": 10105,
+        "category_name": "Terrestrial",
+        "dino_diet": "Carnivore",
+        "dino_name": "Therizinosaurus",
+        "dino_nickname": "Therizinosaurus",
+        "dino_clutch": "5",
+        "dino_image": "https://path-of-titans.fandom.com/wiki/Therizinosaurus",
+        "dino_emoji": "",
+        "dino_color": "#ffffff",
+        "summary": "Therizinosaurus is a dinosaur found in the Path of Titans universe. More detailed information can be obtained from the Path of Titans wiki.",
+        "dino_profile": {
+            "fields": []
+        }
+    },
+    {
+        "profile_id": 10106,
+        "category_name": "Aerial",
+        "dino_diet": "Carnivore",
+        "dino_name": "Titanoboa",
+        "dino_nickname": "Titanoboa",
+        "dino_clutch": "5",
+        "dino_image": "https://path-of-titans.fandom.com/wiki/Titanoboa",
+        "dino_emoji": "",
+        "dino_color": "#ffffff",
+        "summary": "Titanoboa is a dinosaur found in the Path of Titans universe. More detailed information can be obtained from the Path of Titans wiki.",
+        "dino_profile": {
+            "fields": []
+        }
+    },
+    {
+        "profile_id": 10107,
+        "category_name": "Terrestrial",
+        "dino_diet": "Carnivore",
+        "dino_name": "Torvosaurus",
+        "dino_nickname": "Torvosaurus",
+        "dino_clutch": "5",
+        "dino_image": "https://path-of-titans.fandom.com/wiki/Torvosaurus",
+        "dino_emoji": "",
+        "dino_color": "#ffffff",
+        "summary": "Torvosaurus is a dinosaur found in the Path of Titans universe. More detailed information can be obtained from the Path of Titans wiki.",
+        "dino_profile": {
+            "fields": []
+        }
+    },
+    {
+        "profile_id": 10108,
+        "category_name": "Terrestrial",
+        "dino_diet": "Carnivore",
+        "dino_name": "Tylosaurus",
+        "dino_nickname": "Tylosaurus",
+        "dino_clutch": "5",
+        "dino_image": "https://path-of-titans.fandom.com/wiki/Tylosaurus",
+        "dino_emoji": "",
+        "dino_color": "#ffffff",
+        "summary": "Tylosaurus is a dinosaur found in the Path of Titans universe. More detailed information can be obtained from the Path of Titans wiki.",
+        "dino_profile": {
+            "fields": []
+        }
+    },
+    {
+        "profile_id": 10109,
+        "category_name": "Terrestrial",
+        "dino_diet": "Carnivore",
+        "dino_name": "Tyrannosaurus",
+        "dino_nickname": "Tyrannosaurus",
+        "dino_clutch": "5",
+        "dino_image": "https://path-of-titans.fandom.com/wiki/Tyrannosaurus",
+        "dino_emoji": "",
+        "dino_color": "#ffffff",
+        "summary": "Tyrannosaurus is a dinosaur found in the Path of Titans universe. More detailed information can be obtained from the Path of Titans wiki.",
+        "dino_profile": {
+            "fields": []
+        }
+    },
+    {
+        "profile_id": 10110,
+        "category_name": "Terrestrial",
+        "dino_diet": "Carnivore",
+        "dino_name": "Tyrannosaurus (Pt)",
+        "dino_nickname": "Tyrannosaurus (Pt)",
+        "dino_clutch": "5",
+        "dino_image": "https://path-of-titans.fandom.com/wiki/Tyrannosaurus_(Pt)",
+        "dino_emoji": "",
+        "dino_color": "#ffffff",
+        "summary": "Tyrannosaurus (Pt) is a dinosaur found in the Path of Titans universe. More detailed information can be obtained from the Path of Titans wiki.",
+        "dino_profile": {
+            "fields": []
+        }
+    },
+    {
+        "profile_id": 10111,
+        "category_name": "Aerial",
+        "dino_diet": "Carnivore",
+        "dino_name": "Utahraptor",
+        "dino_nickname": "Utahraptor",
+        "dino_clutch": "5",
+        "dino_image": "https://path-of-titans.fandom.com/wiki/Utahraptor",
+        "dino_emoji": "",
+        "dino_color": "#ffffff",
+        "summary": "Utahraptor is a dinosaur found in the Path of Titans universe. More detailed information can be obtained from the Path of Titans wiki.",
+        "dino_profile": {
+            "fields": []
+        }
+    },
+    {
+        "profile_id": 10112,
+        "category_name": "Aerial",
+        "dino_diet": "Carnivore",
+        "dino_name": "Utahraptor (Rework)",
+        "dino_nickname": "Utahraptor (Rework)",
+        "dino_clutch": "5",
+        "dino_image": "https://path-of-titans.fandom.com/wiki/Utahraptor_(Rework)",
+        "dino_emoji": "",
+        "dino_color": "#ffffff",
+        "summary": "Utahraptor (Rework) is a dinosaur found in the Path of Titans universe. More detailed information can be obtained from the Path of Titans wiki.",
+        "dino_profile": {
+            "fields": []
+        }
+    },
+    {
+        "profile_id": 10113,
+        "category_name": "Aerial",
+        "dino_diet": "Carnivore",
+        "dino_name": "Velocciraptor",
+        "dino_nickname": "Velocciraptor",
+        "dino_clutch": "5",
+        "dino_image": "https://path-of-titans.fandom.com/wiki/Velocciraptor",
+        "dino_emoji": "",
+        "dino_color": "#ffffff",
+        "summary": "Velocciraptor is a dinosaur found in the Path of Titans universe. More detailed information can be obtained from the Path of Titans wiki.",
+        "dino_profile": {
+            "fields": []
+        }
+    },
+    {
+        "profile_id": 10114,
+        "category_name": "Aerial",
+        "dino_diet": "Carnivore",
+        "dino_name": "Xiphactinus",
+        "dino_nickname": "Xiphactinus",
+        "dino_clutch": "5",
+        "dino_image": "https://path-of-titans.fandom.com/wiki/Xiphactinus",
+        "dino_emoji": "",
+        "dino_color": "#ffffff",
+        "summary": "Xiphactinus is a dinosaur found in the Path of Titans universe. More detailed information can be obtained from the Path of Titans wiki.",
+        "dino_profile": {
+            "fields": []
+        }
+    },
+    {
+        "profile_id": 10115,
+        "category_name": "Terrestrial",
+        "dino_diet": "Carnivore",
+        "dino_name": "Yangchuanosaurus",
+        "dino_nickname": "Yangchuanosaurus",
+        "dino_clutch": "5",
+        "dino_image": "https://path-of-titans.fandom.com/wiki/Yangchuanosaurus",
+        "dino_emoji": "",
+        "dino_color": "#ffffff",
+        "summary": "Yangchuanosaurus is a dinosaur found in the Path of Titans universe. More detailed information can be obtained from the Path of Titans wiki.",
+        "dino_profile": {
+            "fields": []
+        }
+    },
+    {
+        "profile_id": 10116,
+        "category_name": "Terrestrial",
+        "dino_diet": "Carnivore",
+        "dino_name": "Yunnanosaurus",
+        "dino_nickname": "Yunnanosaurus",
+        "dino_clutch": "5",
+        "dino_image": "https://path-of-titans.fandom.com/wiki/Yunnanosaurus",
+        "dino_emoji": "",
+        "dino_color": "#ffffff",
+        "summary": "Yunnanosaurus is a dinosaur found in the Path of Titans universe. More detailed information can be obtained from the Path of Titans wiki.",
+        "dino_profile": {
+            "fields": []
+        }
+    },
+    {
+        "profile_id": 10117,
+        "category_name": "Aerial",
+        "dino_diet": "Carnivore",
+        "dino_name": "Yutyrannus",
+        "dino_nickname": "Yutyrannus",
+        "dino_clutch": "5",
+        "dino_image": "https://path-of-titans.fandom.com/wiki/Yutyrannus",
+        "dino_emoji": "",
+        "dino_color": "#ffffff",
+        "summary": "Yutyrannus is a dinosaur found in the Path of Titans universe. More detailed information can be obtained from the Path of Titans wiki.",
+        "dino_profile": {
+            "fields": []
+        }
+    },
+    {
+        "profile_id": 10118,
+        "category_name": "Aerial",
+        "dino_diet": "Carnivore",
+        "dino_name": "Zhuchengtyrannus",
+        "dino_nickname": "Zhuchengtyrannus",
+        "dino_clutch": "5",
+        "dino_image": "https://path-of-titans.fandom.com/wiki/Zhuchengtyrannus",
+        "dino_emoji": "",
+        "dino_color": "#ffffff",
+        "summary": "Zhuchengtyrannus is a dinosaur found in the Path of Titans universe. More detailed information can be obtained from the Path of Titans wiki.",
+        "dino_profile": {
+            "fields": []
+        }
+    }
+]
